@@ -8,7 +8,7 @@ A mod that includes features like noclip, auto-clicker, and level bypass. (IT'S 
 - **Level Bypass**: Skip levels as needed.
 
 ## Installation
-1. Download the mod from [this link](<https://github.com/Bartosz8291/BartoszMOD/releases/tag/v1.0.0-beta>).
+1. Download the mod from [this link](https://github.com/Bartosz8291/BartoszMOD/releases/download/v1.0.0-beta/BartoszMOD.zip).
 2. Open Geode and navigate to the Install tab.
 3. Add the downloaded ZIP file or use the provided link.
 
